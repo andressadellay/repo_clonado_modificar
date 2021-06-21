@@ -1,1 +1,0 @@
-Este projeto é uma revisão de comandos iniciais de git.
